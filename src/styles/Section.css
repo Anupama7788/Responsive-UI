@@ -40,7 +40,7 @@
   }
 }
 
-/* Responsive */
+
 @media screen and (max-width: 768px) {
   .section-container {
     grid-template-columns: repeat(auto-fit,minmax(300px, 1fr)); 
@@ -69,5 +69,3 @@
    
   }
 }
-
-
